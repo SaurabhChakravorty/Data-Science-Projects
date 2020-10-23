@@ -1,0 +1,26 @@
+Document:
+•	The Python + document file has been shared with you in a zipped file
+•	The document is in the form of .ipynb notebook which also contains the code
+•	All the other files shared can easily be followed up by reading the main .ipynb notebook
+•	We have also given a pdf file named U.K_Railways_Strategy_and_Topic_Modelling.pdf which is same as .ipynb file, it shows all the code output and describes the whole project
+
+
+Prerequisite:
+•	Please have Python 3.9 installed in your system
+•	Please install Jupyter notebook IDE in your system. If you don’t have Jupyter notebooks go to install Jupyter please go to https://jupyter.org/
+•	Have a stable internet connection to run the scripts
+•	Most of the dependencies  required in the system is installed,  but if any dependency or library is missing it can be easily installed using 
+•	!pip install “**You_Package_Name**” command in an empty cell
+•	The whole notebook will take 10-15 minutes to run
+
+
+Steps to run the code:
+•	Unzip the folder given to you and find the  “U.K_Railways_Strategy_and_Topic_Modelling.pynb” file
+•	This file should be opened in Jupyter notebook IDE
+•	The whole document describes all the steps followed to build this project
+•	You can run each cell using “SHIFT” + “ENTER” or you can run it using “RUN” option in toolbar
+•	Wait for each cell to be over and then run the next cell
+•	Each cell, especially in which MODEL is trained will take some time to run
+•	Continue until the last cell arrives in the notebook
+
+
