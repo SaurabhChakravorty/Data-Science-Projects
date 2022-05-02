@@ -1,0 +1,139 @@
+[{
+    "customer_id": "152467",
+    "timestamp": "2022-01-01",
+    "states": {
+        "age": 18,
+        "gender": "M",
+        "client-since": "2020-01-01",
+        "region": "Europa",
+        "last_offer": "OFFER_5"
+    },
+    "offers": {
+        "OFFER_1": "True",
+        "OFFER_2": "False", 
+        "OFFER_3": "False", 
+        "OFFER_4": "True", 
+        "OFFER_5": "True", 
+        "OFFER_6": "False",
+        "OFFER_7": "False", 
+        "OFFER_8": "True", 
+        "OFFER_9": "True", 
+        "OFFER_10": "False"
+    }
+},
+{
+    "customer_id": "348923",
+    "timestamp": "2022-01-11",
+    "states": {
+        "age": 28,
+        "gender": "M",
+        "client-since": "2019-10-21",
+        "region": "Americas",
+        "last_offer": "OFFER_3"
+    },
+    "offers": {
+        "OFFER_1": "True",
+        "OFFER_2": "True", 
+        "OFFER_3": "False", 
+        "OFFER_4": "True", 
+        "OFFER_5": "True", 
+        "OFFER_6": "True",
+        "OFFER_7": "False", 
+        "OFFER_8": "True", 
+        "OFFER_9": "True", 
+        "OFFER_10": "False"
+    }
+},
+{
+    "customer_id": "984134",
+    "timestamp": "2018-12-11",
+    "states": {
+        "age": 45,
+        "gender": "F",
+        "client-since": "2018-12-12",
+        "region": "Americas",
+        "last_offer": "OFFER_10"
+    },
+    "offers": {
+        "OFFER_1": "False",
+        "OFFER_2": "True", 
+        "OFFER_3": "False", 
+        "OFFER_4": "True", 
+        "OFFER_5": "True", 
+        "OFFER_6": "True",
+        "OFFER_7": "False", 
+        "OFFER_8": "True", 
+        "OFFER_9": "True", 
+        "OFFER_10": "True"
+    }
+},
+{
+    "customer_id": "564123",
+    "timestamp": "2022-01-03",
+    "states": {
+        "age": 22,
+        "gender": "F",
+        "client-since": "2020-01-01",
+        "region": "Asia",
+        "last_offer": "OFFER_8"
+    },
+    "offers": {
+        "OFFER_1": "True",
+        "OFFER_2": "True", 
+        "OFFER_3": "False", 
+        "OFFER_4": "True", 
+        "OFFER_5": "True", 
+        "OFFER_6": "False",
+        "OFFER_7": "False", 
+        "OFFER_8": "True", 
+        "OFFER_9": "True", 
+        "OFFER_10": "False"
+    }
+},
+{
+    "customer_id": "123987",
+    "timestamp": "2022-11-11",
+    "states": {
+        "age": 71,
+        "gender": "M",
+        "client-since": "2010-10-21",
+        "region": "Europa",
+        "last_offer": "OFFER_3"
+    },
+    "offers": {
+        "OFFER_1": "True",
+        "OFFER_2": "True", 
+        "OFFER_3": "False", 
+        "OFFER_4": "True", 
+        "OFFER_5": "True", 
+        "OFFER_6": "False",
+        "OFFER_7": "False", 
+        "OFFER_8": "True", 
+        "OFFER_9": "True", 
+        "OFFER_10": "False"
+    }
+},
+{
+    "customer_id": "876433",
+    "timestamp": "2022-09-11",
+    "states": {
+        "age": 22,
+        "gender": "F",
+        "client-since": "2021-12-12",
+        "region": "Asia",
+        "last_offer": "OFFER_9"
+    },
+    "offers": {
+        "OFFER_1": "False",
+        "OFFER_2": "True", 
+        "OFFER_3": "True", 
+        "OFFER_4": "True", 
+        "OFFER_5": "True", 
+        "OFFER_6": "True",
+        "OFFER_7": "False", 
+        "OFFER_8": "True", 
+        "OFFER_9": "True", 
+        "OFFER_10": "True"
+    }
+}
+]

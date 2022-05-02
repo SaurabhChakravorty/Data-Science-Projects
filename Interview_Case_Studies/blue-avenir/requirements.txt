@@ -1,0 +1,10 @@
+numpy
+pandas
+uvicorn [standard]
+fastapi
+fastapi_versioning
+psycopg2
+config
+pydantic
+gunicorn
+python-multipart
