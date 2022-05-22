@@ -1,0 +1,6 @@
+datetime
+fastapi
+uvicorn
+requests
+jsonify
+pandas

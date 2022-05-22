@@ -1,0 +1,9 @@
+{"click_id": 123, "created_at": "2016-10-03T10:50:33", "product_id": 98373, "product_price": 220.50, "user_id": 1, "ip": "10.10.10.10"}
+{"click_id": 124, "created_at": "2017-02-03T10:51:33", "product_id": 97373, "product_price": 320.50, "user_id": 1, "ip": "10.13.10.10"}
+{"click_id": 125, "created_at": "2017-10-03T10:52:33", "product_id": 96373, "product_price": 20.50, "user_id": 1, "ip": "192.168.2.1"}
+{"click_id": 126, "created_at": "2017-10-03T11:50:33", "product_id": 88373, "product_price": 220.50, "user_id": 2, "ip": "172.16.11.10"}
+{"click_id": 127, "created_at": "2017-10-03T11:51:33", "product_id": 87373, "product_price": 320.50, "user_id": 2, "ip": "10.12.15.15"}
+{"click_id": 128, "created_at": "2017-10-03T11:52:33", "product_id": 86373, "product_price": 20.50, "user_id": 2, "ip": "192.168.1.10"}
+{"click_id": 129, "created_at": "2017-08-03T12:50:33", "product_id": 78373, "product_price": 220.50, "user_id": 3, "ip": "10.13.10.10"}
+{"click_id": 130, "created_at": "2017-10-03T12:51:33", "product_id": 77373, "product_price": 320.50, "user_id": 3, "ip": "192.168.1.60"}
+{"click_id": 131, "created_at": "2017-10-03T12:52:33", "product_id": 76373, "product_price": 20.50, "user_id": 3, "ip": "10.10.30.30"}
