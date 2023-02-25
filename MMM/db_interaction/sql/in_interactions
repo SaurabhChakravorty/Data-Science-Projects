@@ -1,0 +1,9 @@
+select
+    last_contact,
+    interactor,
+    last_touch_count,
+    tor_value
+from
+    mmm.in_interactions
+where
+    run_id = @run_id;

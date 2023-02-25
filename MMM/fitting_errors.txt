@@ -1,0 +1,14 @@
+failed due to: 0.0 cannot be raised to a negative power
+failed due to: 0.0 cannot be raised to a negative power
+failed due to: 'NoneType' object has no attribute 'write'
+failed due to: 'NoneType' object has no attribute 'write'
+failed due to: 'NoneType' object has no attribute 'write'
+failed due to: 'NoneType' object has no attribute 'write'
+failed due to: 'NoneType' object has no attribute 'write'
+failed due to: 'NoneType' object has no attribute 'write'
+failed due to: 'NoneType' object has no attribute 'write'
+failed due to: 'NoneType' object has no attribute 'write'
+failed due to: 'NoneType' object has no attribute 'write'
+failed due to: 'NoneType' object has no attribute 'write'
+failed due to: need at least one array to stack
+failed due to: need at least one array to stack

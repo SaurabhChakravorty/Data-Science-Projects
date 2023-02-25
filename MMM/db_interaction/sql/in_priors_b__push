@@ -1,0 +1,10 @@
+delete
+from
+    mmm.in_priors_conv_coefs
+where
+    run_id = @run_id;
+
+insert into
+    mmm.in_priors_conv_coefs(run_id, submodel, channel, component_type, distribution, a, b)
+values
+    @values

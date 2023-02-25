@@ -1,0 +1,9 @@
+select
+    date
+from
+    mmm.in_cha_dummy
+where
+    value = 1
+    and run_id = @run_id
+order by
+    date asc

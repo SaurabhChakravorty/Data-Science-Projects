@@ -1,0 +1,12 @@
+select
+    channel,
+    coef,
+    parameter,
+    distribution,
+    a,
+    b
+from
+    mmm.in_priors_group
+where
+    channel = '@channel_name'
+    and run_id = @run_id

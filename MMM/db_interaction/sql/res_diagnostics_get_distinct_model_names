@@ -1,0 +1,4 @@
+select
+    distinct(model_name)
+from
+    mmm.res_diagnostics

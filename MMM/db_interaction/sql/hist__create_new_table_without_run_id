@@ -1,0 +1,8 @@
+select
+    CAST(@push_id AS bigint) as push_id,
+    CAST('@model_name' AS varchar(50)) as model_name,
+    *
+into
+    @hist_table
+from
+    @in_table

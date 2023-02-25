@@ -1,0 +1,10 @@
+select
+    distribution,
+    a,
+    b
+from
+    mmm.in_priors_control
+where
+    control_variable = 'sigma'
+    and include = 'True'
+    and run_id = @run_id

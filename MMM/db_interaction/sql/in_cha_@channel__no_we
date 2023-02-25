@@ -1,0 +1,19 @@
+select
+    @value_name
+from
+    mmm.in_cha_@channel_name
+where
+    run_id = @run_id
+    and (date >= '@date1' and date <= '@date2')
+    and ((((datepart(dw, date) - 1 ) + @@datefirst ) % 7) <> 0 and (((datepart(dw, date) - 1 ) + @@datefirst ) % 7) <> 6)
+    and not exists (
+        select
+            date
+        from
+            mmm.in_exclusions
+        where
+            mmm.in_exclusions.date = mmm.in_cha_@channel_name.date
+            and mmm.in_exclusions.run_id = @run_id
+    )
+order by
+    date asc

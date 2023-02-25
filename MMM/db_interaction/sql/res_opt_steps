@@ -1,0 +1,2 @@
+INSERT INTO mmm.res_opt_steps
+VALUES (@push_id, @model_name, @step, @channel, @coef, @value, @is_improvement, @is_final, @waic);

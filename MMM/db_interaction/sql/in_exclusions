@@ -1,0 +1,6 @@
+select
+    date
+from
+    mmm.in_exclusions
+where
+    run_id = @run_id;

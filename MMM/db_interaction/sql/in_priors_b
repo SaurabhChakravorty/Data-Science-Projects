@@ -1,0 +1,10 @@
+select
+    distribution,
+    a,
+    b
+from
+    mmm.in_priors_conv_coefs
+where
+    submodel = '@submodel_name'
+    and channel = '@channel_name'
+    and run_id = @run_id

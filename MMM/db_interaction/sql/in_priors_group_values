@@ -1,0 +1,8 @@
+select
+	channel,
+	coef,
+	value
+from
+	mmm.in_priors_group_values
+where
+	run_id = @run_id

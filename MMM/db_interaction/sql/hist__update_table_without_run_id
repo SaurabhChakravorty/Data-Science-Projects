@@ -1,0 +1,29 @@
+select
+    *
+into
+    mmm.hist_tmp
+from
+    (
+    select
+        *
+    from
+        @hist_table
+    UNION ALL
+    select
+        @push_id,
+        '@model_name',
+        *
+    from
+        @in_table
+    ) tmp;
+
+drop table if exists @hist_table;
+
+select
+    *
+into
+    @hist_table
+from
+    mmm.hist_tmp;
+
+drop table if exists mmm.hist_tmp;

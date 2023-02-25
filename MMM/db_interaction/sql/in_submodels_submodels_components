@@ -1,0 +1,8 @@
+select
+    submodel,
+    component
+from
+    mmm.in_submodels
+where
+    run_id= @run_id
+    and include = 'True'

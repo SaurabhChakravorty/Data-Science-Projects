@@ -1,0 +1,7 @@
+select
+    coef,
+    distribution
+from
+    mmm.in_priors_derived
+where
+    run_id = @run_id

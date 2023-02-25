@@ -1,0 +1,10 @@
+delete
+from
+    mmm.in_priors_group
+where
+    run_id = @run_id;
+
+insert into
+    mmm.in_priors_group(run_id, channel, coef, parameter, distribution, a, b)
+values
+    @values

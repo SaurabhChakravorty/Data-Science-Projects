@@ -1,0 +1,6 @@
+select
+    waic
+from
+    mmm.res_diagnostics
+where
+    push_id = @push_id

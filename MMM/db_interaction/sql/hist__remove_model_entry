@@ -1,0 +1,4 @@
+delete from
+    @hist_table
+where
+    model_name = '@model_name';

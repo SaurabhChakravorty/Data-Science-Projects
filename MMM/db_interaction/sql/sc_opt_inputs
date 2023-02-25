@@ -1,0 +1,11 @@
+select
+    channel,
+    inv_type,
+    past_spend,
+    min_spend,
+    max_spend,
+    cpa
+from
+    mmm.sc_opt_inputs
+where
+    run_id = @run_id

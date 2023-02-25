@@ -1,0 +1,6 @@
+select
+    distinct channel
+from
+    mmm.in_priors_conv_coefs_flexibility
+where
+    run_id= @run_id

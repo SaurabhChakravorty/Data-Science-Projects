@@ -1,0 +1,9 @@
+select
+    date
+from
+    mmm.in_dummy_values
+where
+    value = 1
+    and run_id = @run_id
+order by
+    date asc
