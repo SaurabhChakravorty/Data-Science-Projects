@@ -1,0 +1,12 @@
+torch>=2.0.0
+tensorflow>=2.12.0
+tf-keras>=2.12.0
+sentence-transformers>=2.2.2
+datasets>=2.10.1
+transformers>=4.35.0
+scikit-learn>=1.2.0
+pandas>=2.0.0
+accelerate>=0.26.0
+numpy>=1.24.0
+spacy>=3.5.0
+flasgger
