@@ -1,0 +1,11 @@
+datasets
+nltk
+torch
+matplotlib
+scikit-learn
+transformers
+umap-learn
+wordcloud
+pandas
+numpy
+transformers_interpret
