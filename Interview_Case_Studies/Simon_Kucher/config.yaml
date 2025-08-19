@@ -1,0 +1,19 @@
+paths:
+  csv: data/Coding_Challenge_Sales_and_Price_data.csv
+  de_html: data/Headphones_Today_2025.html
+  fr_html: data/Le_Tech_Quotidien_2025.html
+  en_html: data/Euro_Electornics_and_tech_2025.html
+  out_dir: outputs
+
+model:
+  min_rows_per_sku: 10
+  min_price_levels_sku: 4
+
+scenarios:
+  optimistic_pct: 0.05
+  conservative_pct: -0.05
+  standard_top_disc: -0.05
+  standard_tail_incr: 0.03
+  top_share: 0.30
+  assumed_margin_pct: 0.25
+  round_to_99: true
